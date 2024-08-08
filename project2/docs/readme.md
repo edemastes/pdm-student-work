@@ -1,6 +1,5 @@
 # **Four Treasure Maze Documentation**
 
- By Jake Mayer
 
 ## Overview
 
